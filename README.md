@@ -2,6 +2,8 @@
 
 October is a visual and pseudonymous social network designed for the attention economy based around coins.
 
+![October](https://raw.githubusercontent.com/october93/october/master/october.png)
+
 ## Features
 
 * News Feed: Discover content in your personalized feed. Like and dislike posts and comments.
